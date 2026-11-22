@@ -1,0 +1,16 @@
+{
+    "experiences": [
+        {
+            "title": "Full Stack Web Developer Intern",
+            "subtitle": "Online Internship Program",
+            "workType": "Internship",
+            "workDescription": [
+                "Completed an intensive **3-month online Full Stack Web Development internship** gaining hands-on industry experience.",
+                "Designed and built dynamic, responsive front-end user interfaces using **React.js**, **HTML5**, and **CSS3**.",
+                "Developed backend logic, managed database interactions with **MongoDB / SQL**, and integrated RESTful APIs.",
+                "Practiced modular code architecture, version control with **Git**, and deployed modern web applications to **Vercel**."
+            ],
+            "dateText": "3 Months Duration"
+        }
+    ]
+}

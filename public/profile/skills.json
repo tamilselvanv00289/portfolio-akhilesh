@@ -1,0 +1,72 @@
+{
+    "intro": "I love to learn new things and experiment with modern technologies.\nHere are the core languages, frameworks, databases, and developer tools I actively work with:",
+    "skills": [
+        {
+            "title": "Programming Languages & Databases",
+            "items": [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/c.svg",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "SQL / MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                }
+            ]
+        },
+        {
+            "title": "Web Frameworks & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React.js"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML5"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS3"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                }
+            ]
+        },
+        {
+            "title": "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/vscode.svg",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/vercel.svg",
+                    "title": "Vercel"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                }
+            ]
+        }
+    ]
+}

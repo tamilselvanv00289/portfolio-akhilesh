@@ -1,0 +1,69 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/portfolio-poster.png",
+            "title": "Personal Developer Portfolio",
+            "bodyText": "- Responsive and modern personal developer portfolio built with **React** and **Vite**.\n- Features dark/light mode toggle, dynamic JSON-driven content sections, and smooth animations.\n- Configured for fast deployment on **Vercel**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/tamilselvanv00289/portfolio-akhilesh"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "#"
+                }
+            ],
+            "tags": [
+                "React",
+                "JavaScript",
+                "Vite",
+                "Vercel",
+                "CSS3"
+            ]
+        },
+        {
+            "image": "images/projects/caaring-poster.png",
+            "title": "Full Stack Web Application",
+            "bodyText": "- End-to-end full stack web application developed during internship/coursework.\n- Responsive client interface built with **React.js** and backed by **MongoDB / SQL**.\n- Implements CRUD operations, secure user data handling, and RESTful API endpoints.",
+            "links": [
+                {
+                    "text": "GitHub (Coming Soon)",
+                    "href": "#"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "#"
+                }
+            ],
+            "tags": [
+                "React",
+                "JavaScript",
+                "MongoDB",
+                "Node.js",
+                "Vercel"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "Database Management & Utility System",
+            "bodyText": "- Core software solution demonstrating algorithmic problem solving and database design.\n- Built with **Python / C++** and relational **SQL** database queries for optimized data retrieval.\n- Clean modular structure adhering to best coding standards.",
+            "links": [
+                {
+                    "text": "GitHub (Coming Soon)",
+                    "href": "#"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "#"
+                }
+            ],
+            "tags": [
+                "Python",
+                "C++",
+                "SQL",
+                "Database"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+// Bento Cyber Emerald & Electric Cyan palette for Akhilesh A portfolio
+
+export const lightTheme = {
+  background: '#f4f7f6',
+  color: '#0f172a',
+  textMuted: '#475569',
+  accentColor: '#059669',
+  accentColor2: '#0284c7',
+  accentSoft: 'rgba(5, 150, 105, 0.12)',
+  glow1: 'rgba(5, 150, 105, 0.10)',
+  glow2: 'rgba(2, 132, 199, 0.08)',
+  chronoTheme: {
+    cardBgColor: '#ffffff',
+    cardForeColor: '#0f172a',
+    titleColor: 'white',
+  },
+  timelineLineColor: '#cbd5e1',
+  cardBackground: '#ffffff',
+  cardFooterBackground: '#f8fafc',
+  cardBorderColor: 'rgba(5, 150, 105, 0.12)',
+  navbarBackground: 'rgba(244, 247, 246, 0.78)',
+  shadowSm: '0 1px 2px rgba(0, 0, 0, 0.04), 0 4px 16px rgba(5, 150, 105, 0.06)',
+  shadowMd: '0 8px 24px rgba(0, 0, 0, 0.08), 0 16px 48px rgba(5, 150, 105, 0.10)',
+  navbarTheme: {
+    linkColor: '#475569',
+    linkHoverColor: '#0f172a',
+    linkActiveColor: '#059669',
+  },
+  bsPrimaryVariant: 'light',
+  bsSecondaryVariant: 'dark',
+  socialIconBgColor: '#0f172a',
+};
+
+export const darkTheme = {
+  background: '#070c0a',
+  color: '#f1f5f9',
+  textMuted: '#94a3b8',
+  accentColor: '#10b981',
+  accentColor2: '#06b6d4',
+  accentSoft: 'rgba(16, 185, 129, 0.15)',
+  glow1: 'rgba(16, 185, 129, 0.20)',
+  glow2: 'rgba(6, 182, 212, 0.15)',
+  chronoTheme: {
+    cardBgColor: '#0e1713',
+    cardForeColor: '#f1f5f9',
+    titleColor: 'black',
+  },
+  timelineLineColor: '#1a2a22',
+  cardBackground: '#0d1612',
+  cardFooterBackground: '#131e19',
+  cardBorderColor: 'rgba(16, 185, 129, 0.15)',
+  navbarBackground: 'rgba(7, 12, 10, 0.72)',
+  shadowSm: '0 1px 2px rgba(0, 0, 0, 0.40), 0 4px 16px rgba(0, 0, 0, 0.40)',
+  shadowMd: '0 8px 24px rgba(0, 0, 0, 0.55), 0 16px 48px rgba(0, 0, 0, 0.60)',
+  navbarTheme: {
+    linkColor: '#94a3b8',
+    linkHoverColor: '#f8fafc',
+    linkActiveColor: '#10b981',
+  },
+  bsPrimaryVariant: 'dark',
+  bsSecondaryVariant: 'light',
+  socialIconBgColor: '#f1f5f9',
+};
